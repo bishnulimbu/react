@@ -8,7 +8,10 @@ import Hello from './components/Hello.js'
 function App() {
   return (
     <div className="App">
-      <MyComponent />
+      <MyComponent name="ram" />
+      <MyComponent name="sam" />
+      <MyComponent name="ram" />
+      <MyComponent name="ram" />
       <Welcome />
       <Hello />
 
