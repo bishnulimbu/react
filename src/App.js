@@ -13,7 +13,7 @@ function App() {
       <MyComponent name="hari" />
       <MyComponent name="dum" />
       <Welcome />
-      <Hello />
+      <Hello name="kalay" />
 
     </div>
   );
