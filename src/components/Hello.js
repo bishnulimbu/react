@@ -4,7 +4,7 @@ const Hello = (props) => {
   console.log(props)
   return (
     <div>
-      <h1>hellow new line {props.name}</h1>
+      <h1>hellow new line {props.name} a.k.a {props.alias}</h1>
 
     </div>
   )
