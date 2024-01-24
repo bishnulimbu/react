@@ -12,7 +12,7 @@ function App() {
       <MyComponent name="sam" />
       <MyComponent name="hari" />
       <MyComponent name="dum" />
-      <Welcome />
+      <Welcome name="hello" alias="world" />
       <Hello name="kalay" alias="goray" />
 
     </div>
