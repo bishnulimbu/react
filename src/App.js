@@ -11,7 +11,7 @@ function App() {
       <MyComponent name="ram" />
       <MyComponent name="sam" />
       <MyComponent name="hari" />
-      <MyComponent name="dum" />
+      <MyComponent name="dum" >this is the children prop</MyComponent>
       <Welcome name="hello" alias="world" />
       <Hello name="kalay" alias="goray" />
 
