@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <MyComponent name="ram" />
       <MyComponent name="sam" />
-      <MyComponent name="ram" />
-      <MyComponent name="ram" />
+      <MyComponent name="hari" />
+      <MyComponent name="dum" />
       <Welcome />
       <Hello />
 
