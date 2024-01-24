@@ -5,7 +5,7 @@ import React from 'react'
 //
 
 // }
-export const Greet = (props) => {
+export const MyComponent = (props) => {
   console.log(props)
   return <h1>hellow world {props.name}</h1>
 }
