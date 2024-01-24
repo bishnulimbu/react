@@ -10,9 +10,6 @@ function App() {
     <div className="App">
       <MyComponent />
       <Welcome />
-      <Hello name="ram" />
-      <Hello name="sam" />
-      <Hello name="hari" />
 
     </div>
   );
