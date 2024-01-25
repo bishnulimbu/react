@@ -5,6 +5,7 @@ import { MyComponent } from './components/Greet'
 import Welcome from './components/Welcome.js'
 import Hello from './components/Hello.js'
 import Message from './components/Message';
+import Counter from './components/Counter';
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
       {/* <MyComponent name="dum" >this is the children prop</MyComponent> */}
       {/* <Welcome name="hello" alias="world" /> */}
       {/* <Hello name="kalay" alias="goray" /> */}
-      <Message />
+      {/* <Message /> */}
+      <Counter />
 
     </div>
   );
