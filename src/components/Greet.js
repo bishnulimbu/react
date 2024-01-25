@@ -7,7 +7,11 @@ import React from 'react'
 // }
 export const MyComponent = (props) => {
   console.log(props)
-  return (<h1>hellow world {props.name} {props.children}</h1>
+  return (
+    <div>
+      <h1>hellow world {props.name} {props.children}</h1>
+      <button>submit</button>
+    </div >
   )
 }
 
