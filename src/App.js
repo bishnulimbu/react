@@ -17,7 +17,7 @@ function App() {
       {/* <Welcome name="hello" alias="world" /> */}
       {/* <Hello name="kalay" alias="goray" /> */}
       {/* <Message /> */}
-      {/* <Counter /> */}
+      <Counter />
 
     </div>
   );
